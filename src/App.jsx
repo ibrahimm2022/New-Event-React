@@ -1,9 +1,9 @@
 import "./App.css";
-
 function App() {
   return (
     <>
-      <applet></applet>
+      <p>sdsad</p>
+      app
     </>
   );
 }
